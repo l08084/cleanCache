@@ -1,0 +1,7 @@
+{
+  "name": "cleanCache",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
